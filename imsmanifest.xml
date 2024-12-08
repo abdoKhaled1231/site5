@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_5c3zAxMlYy7_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">الاختبار القبلي للموديول الثالث </langstring>
+        </title>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="الاختبار_القبلي_للموديول_الثالث__ORG">
+    <organization identifier="الاختبار_القبلي_للموديول_الثالث__ORG">
+      <title>الاختبار القبلي للموديول الثالث </title>
+      <item identifier="الأختبار_التحصيلي_SCO" isvisible="true" identifierref="__5c3zAxMlYy7_course_id_RES">
+        <title>الاختبار القبلي للموديول الثالث </title>
+        <adlcp:masteryscore>80</adlcp:masteryscore>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__5c3zAxMlYy7_course_id_RES" type="webcontent" href="launcher.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="story_content/5gMiEFC93r3_44100_48_0.mp3" />
+      <file href="story_content/6acMWrTKDVF_44100_48_0.mp3" />
+      <file href="mobile/6Oj2GyXpDIk.png" />
+      <file href="story_content/5lIVtshGG8g_44100_48_0.mp3" />
+      <file href="story_content/6Dg4iJcpkhN_44100_48_0.mp3" />
+      <file href="story_content/5lvxpQTd51T_44100_48_0.mp3" />
+      <file href="story_content/5VvFvEdrQXt_44100_48_0.mp3" />
+      <file href="meta.xml" />
+      <file href="mobile/6SARfHOtchy.gif" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5kmWHv4SQBJ.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5dxC7sd9cix.js" />
+      <file href="html5/data/js/5exN0E5dgln.js" />
+      <file href="html5/data/js/5g9SmEE4hC0.js" />
+      <file href="html5/data/js/5gjoL6oapNf.js" />
+      <file href="html5/data/js/5oCK8C0JzmW.js" />
+      <file href="html5/data/js/5sk4kdEdIgg.js" />
+      <file href="html5/data/js/5sZTV98L4iJ.js" />
+      <file href="html5/data/js/5tFemxp1GmB.js" />
+      <file href="html5/data/js/5UnhwgqHUwe.js" />
+      <file href="html5/data/js/5v6Bt7P7p81.js" />
+      <file href="html5/data/js/5VcTP9P2l5j.js" />
+      <file href="html5/data/js/5VQrrE585CF.js" />
+      <file href="html5/data/js/5wKZM7BgJN2.js" />
+      <file href="html5/data/js/5wwfR3c5YAU.js" />
+      <file href="html5/data/js/5x4KzMT48Sv.js" />
+      <file href="html5/data/js/5YwiNUiNFcP.js" />
+      <file href="html5/data/js/5yzYCZQkQjh.js" />
+      <file href="html5/data/js/605VvpUapS6.js" />
+      <file href="html5/data/js/62IwkWvInuU.js" />
+      <file href="html5/data/js/62tfQRzQ4Aj.js" />
+      <file href="html5/data/js/68KURZCJFkL.js" />
+      <file href="html5/data/js/6B9nrm6TprC.js" />
+      <file href="html5/data/js/6D4J7GzyjsI.js" />
+      <file href="html5/data/js/6DjvZe7edV0.js" />
+      <file href="html5/data/js/6gmCtx9XrkJ.js" />
+      <file href="html5/data/js/6ivJXqbJfLk.js" />
+      <file href="html5/data/js/6LIko6aVfEQ.js" />
+      <file href="html5/data/js/6lT231wtUD8.js" />
+      <file href="html5/data/js/6MD6PiMhvhp.js" />
+      <file href="html5/data/js/6NMsCs5oAOz.js" />
+      <file href="html5/data/js/6PJw01g7kYa.js" />
+      <file href="html5/data/js/6PWaZLettSc.js" />
+      <file href="html5/data/js/6SjcASTKjkc.js" />
+      <file href="html5/data/js/6V45RMYzXEc.js" />
+      <file href="html5/data/js/6X2PnpPBwnZ.js" />
+      <file href="html5/data/js/6ZVE5nnJ9DF.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="launcher.html" />
+      <file href="story_content/external_window.png" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
